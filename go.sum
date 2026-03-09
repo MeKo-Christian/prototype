@@ -11,3 +11,5 @@ github.com/gonutz/mixer v1.0.0/go.mod h1:48Xg+NyQ/IduAK7zjy64CI01vtokXm/XgiefRE/
 github.com/gonutz/w32/v2 v2.0.1/go.mod h1:MgtHx0AScDVNKyB+kjyPder4xIi3XAcHS6LDDU2DmdE=
 github.com/gonutz/w32/v2 v2.2.0 h1:XVC/Kd238O+gadaDEB+E6E+kn/UBhj2UNOS8v9QPc4Q=
 github.com/gonutz/w32/v2 v2.2.0/go.mod h1:MgtHx0AScDVNKyB+kjyPder4xIi3XAcHS6LDDU2DmdE=
+golang.org/x/sys v0.40.0 h1:DBZZqJ2Rkml6QMQsZywtnjnnGvHza6BTfYFWY9kjEWQ=
+golang.org/x/sys v0.40.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=

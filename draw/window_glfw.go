@@ -1,6 +1,4 @@
-//go:build (glfw || !windows) && !js
-// +build glfw !windows
-// +build !js
+//go:build glfw
 
 package draw
 
