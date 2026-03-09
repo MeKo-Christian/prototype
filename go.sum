@@ -1,3 +1,5 @@
+github.com/MeKo-Christian/agg_go v0.2.2 h1:ySw45x1nlMmIPlosRYEqb6qUoremUfZyussCtcocyWw=
+github.com/MeKo-Christian/agg_go v0.2.2/go.mod h1:G0hjnR1ZdeDF5v2DS3vcF6M+3s/ZPSaoIFP9F9OMk3Q=
 github.com/gonutz/d3d9 v1.2.4 h1:whsZkcFOxjPXkVgO6koGzE4prk2IkX5ZMxzIgW7gryk=
 github.com/gonutz/d3d9 v1.2.4/go.mod h1:q74g3QbR280b+qYauwEV0N9SVadszWPLZ4l/wHiD/AA=
 github.com/gonutz/ds v1.0.0 h1:GBgZTs+Rvimvq9qM8jij3xi+rUZNf0bux95uTFvUkXQ=
